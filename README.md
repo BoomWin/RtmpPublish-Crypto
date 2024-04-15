@@ -1,3 +1,6 @@
+<이 코드의 모든 저작권은 pedro 에게 있음을 알립니다.>
+<pedro가 제작한 코드를 바탕으로 USB-Crypto-module 을 부착하여 사용할 계획>
+
 # RootEncoder for Android
 
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-rtmp%20rtsp%20stream%20client%20java-green.svg?style=true)](https://android-arsenal.com/details/1/5333)
